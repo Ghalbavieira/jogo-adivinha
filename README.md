@@ -21,7 +21,7 @@ O jogo aprende com suas respostas e melhora com o tempo.
 
 Execute o script no terminal com:
 
-# python jogo.py
+* python jogo.py *
 
 Siga as instruções na tela e divirta-se!
 
